@@ -7,7 +7,7 @@ title: Router - First Line of Defense
 
 > **A router is a networking device that forwards data packets between computer networks**.
 
-If the internet could be likened to a warzone then the router sitting between your digital devices and ISP[^1] would be well thought of as a line of first defense against invasion and ruin! 
+If the internet can be likened to a warzone then the router sitting between your digital devices and ISP[^1] could be well thought of as a line of first defense against invasion and ruin! 
 
 > 
 
