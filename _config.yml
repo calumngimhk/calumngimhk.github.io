@@ -1,0 +1,7 @@
+baseurl: ""
+
+header_pages:
+- index.md
+- about.md
+
+footer: 'just another Linux blog :-/'
