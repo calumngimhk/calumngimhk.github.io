@@ -23,7 +23,7 @@ Perhaps, saying **No** to the **illegal** theft of personal data by choosing sof
 ------------------------
 ```
 
-My home study contains two comfortable swivel chairs, a huge solid wood table, two bare-bones PCs, one ISP[^1] fibre modem, one asuswrt[^2] gigabit dual wan wireless router, a wireless black and white laser-jet printer and two rooted android based smartphones. It's a comfortable little space - mostly free from vampire digital tools and purposively leaky operating systems:
+My home study contains two comfortable swivel chairs, a huge solid wood table, two bare-bones PCs, one ISP[^1] fiber modem, one asuswrt[^2] gigabit dual wan wireless router, a wireless black and white laser-jet printer and two rooted android based smartphones. It's a comfortable little space - mostly free from vampire digital tools and purposively leaky operating systems:
 
 >
 
