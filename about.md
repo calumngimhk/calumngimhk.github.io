@@ -27,12 +27,17 @@ My home study contains two comfortable swivel chairs, a huge solid wood table, t
 
 >
 
+| Devices | | Ethical Software |
 | --- | --- | ----------- |
 | Router | : | [merlin firmware](https://www.asuswrt-merlin.net/) + [terminal menu](https://github.com/decoderman/amtm) |
 | PCs |: | [arch linux](https://www.archlinux.org/) + [xorg](https://wiki.archlinux.org/index.php/Xorg) + [openbox](https://wiki.archlinux.org/index.php/Openbox) + [ungoogled-chromium](https://aur.archlinux.org/packages/ungoogled-chromium-archlinux/) |
 | Printer | : | [cups](https://wiki.archlinux.org/index.php/CUPS) + [hplip](https://developers.hp.com/hp-linux-imaging-and-printing) + [certificates](https://github.com/FiloSottile/mkcert) |
 | Phones | : | [TWRP](https://twrp.me/about/) + [magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) +  [lineage os](https://lineageos.org/) + [fdroid](https://f-droid.org/en/) + [aurora](https://f-droid.org/en/packages/com.aurora.store/) |
-|  |  |  ```....``` |
+
+> 
+
+| Services | | Ethical Software |
+| --- | --- | ----------- |
 | Video | : | [bitchute](https://www.bitchute.com/) |
 | Social | : | [minds](https://www.minds.com/) + [gab](https://gab.com/) |
 | Email | : | [proton mail](https://protonmail.com/) + [tutanota](https://tutanota.com/) |
