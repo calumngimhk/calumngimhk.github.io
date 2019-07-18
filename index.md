@@ -4,6 +4,10 @@ layout: home
 permalink: /
 ---
 
-# Home
+# Hi there!
 
-Stuff home
+> 
+
+Simply a record of my home study setup...
+
+>
