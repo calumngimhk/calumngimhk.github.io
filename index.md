@@ -8,6 +8,6 @@ permalink: /
 
 > 
 
-Simply a record of my home study setup...
+A record of my simple home computing setup...
 
 >

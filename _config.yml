@@ -3,5 +3,6 @@ baseurl: ""
 header_pages:
 - index.md
 - about.md
+- shots.md
 
 footer: 'just another linux blog :-!'

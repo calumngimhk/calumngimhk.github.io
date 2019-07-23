@@ -17,7 +17,7 @@ If monopolied tech giants of the like currently so prevalent today could be desc
 Perhaps, saying **No** to the **illegal** theft of personal data by choosing software that respects personal rights might have positive effects, eventually!
 
 > *my approach*: 
-**respect and honour [ethical](https://plato.stanford.edu/entries/plato-ethics/) behaviour, give generously to those deserving tribute and resist totalitarianism - always**.
+**respect and honour [ethical](https://plato.stanford.edu/entries/plato-ethics/) behaviour, give generously to those deserving tribute and resist totalitarianism - in all its forms**.
 
 ```text
 ------------------------
@@ -46,7 +46,7 @@ My home study contains two comfortable swivel chairs, a huge solid wood table, t
 ------------------------
 ```
 
-Just my installation record with sources for anyone interested :-]
+Herein lies a simple installation record for anyone interested :-]
 
 >
 
