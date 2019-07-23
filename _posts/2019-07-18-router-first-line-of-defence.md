@@ -148,7 +148,6 @@ The following generated keys were then imported into either the router or printe
 * Router  : SSL Certificate ; ~/.config/local-certs/clarke.home+8.pem
 * Printer : Certificate ; ~/.config/local-certs/clarke.home+8-key.pfx
 		
-
 # Router - Network Map
 
 >
