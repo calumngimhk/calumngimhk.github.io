@@ -53,11 +53,11 @@ My ISP provides me with a 4 port [optical network terminal](http://www.gpon.com/
 
 >
 
-The two PCs in my home office are attached to the RT-AC68U's LAN2 (192.168.1.111) and LAN3 (192.168.1.112) ports respectively. 
+I use the RT-AC68U's dual wan feature to [load balance](https://en.wikipedia.org/wiki/Network_Load_Balancing) the two ip addresses and DHCP is disabled by default for added security. Each device in the network is assigned a static IP address and routed to either the primary or secondary dual wan unit. 
 
 >
 
-I use the RT-AC68U's dual wan feature to [load balance](https://en.wikipedia.org/wiki/Network_Load_Balancing) the two ip addresses and DHCP is disabled by default for added security. Each device in the network is assigned a static IP address and routed to either the primary or secondary dual wan unit. 
+The two PCs in my home office are attached to the RT-AC68U's LAN2 (192.168.1.111) and LAN3 (192.168.1.112) ports respectively.
 
 >
 
