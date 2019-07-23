@@ -45,7 +45,7 @@ I've been using [Asus](https://www.asus.com/us/) network gear and motherboards f
 ------------------------
 ```
 
-# Router - My Connectivity Defaults
+# Router - My LAN Defaults
 
 >
 
