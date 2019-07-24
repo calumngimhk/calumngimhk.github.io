@@ -61,7 +61,7 @@ The two PCs in my home office are attached to the RT-AC68U's LAN2 (192.168.1.111
 
 >
 
-Good quality [cat6](https://en.wikipedia.org/wiki/Category_6_cable) cables were used to connect all wired devices and the RT-AC68U's default asuswrt firmware is regularly, though manually replaced with Merlin's [latest](https://sourceforge.net/projects/asuswrt-merlin/files/RT-AC68U/Release/) update from sourceforge.net.
+Good quality [cat6](https://en.wikipedia.org/wiki/Category_6_cable) cables were used to connect all wired devices and the RT-AC68U's default asuswrt firmware is manually replaced with Merlin's [latest](https://sourceforge.net/projects/asuswrt-merlin/files/RT-AC68U/Release/) update from sourceforge.net.
 
 >
 
