@@ -158,7 +158,15 @@ The following generated keys were then imported into either the router or printe
 
 >
 
-In the scenario outlined below both PCs are turned on and connected to the internet. The wifi connection is set to scheduled mode which is currently timed to be disabled.
+In the scenario outlined below both PCs are turned on and connected to the internet - the default workday situation.
+
+>
+
+The wifi connection is set to scheduled mode and is currently timed to be disabled. Simple bash scripts allow for altering this wifi mode between scheduled, off and on.
+
+>
+
+[Macchanger](https://wiki.archlinux.org/index.php/MAC_address_spoofing) is aso integrated into the above wifi bash scripts and allow changing the external ip address with the mac address on demand
 
 >
 
