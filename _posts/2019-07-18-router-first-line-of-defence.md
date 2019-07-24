@@ -83,10 +83,23 @@ $ ssh -p <ssh_port> <login_name>@rtam.home
 
 The RT-AC68U's wifi antennae allow for wireless connections to two android smartphones (192.68.1.113/114) and one wireless printer (192.168.1.115).
 
->
+```text
+------------------------
+```
 
 ```bash
 $ cat /etc/hosts
+   127.0.0.1 localhost
+   127.0.0.1 ads.google.com
+   127.0.0.1 analytics.google.com
+   127.0.0.1 doubleclick.net
+   127.0.0.1 google-analytics.com
+   127.0.0.1 googleadservices.com
+   127.0.0.1 googlesyndication.com
+   127.0.0.1 googletagmanager.com
+   127.0.0.1 ssl.google-analytics.com
+   127.0.0.1 www.google-analytics.com
+
    192.168.1.1      rtam.home rtam   # Asus RT-AC68U
    192.168.1.111    anbc.home anbc   # Asus H270F MB PC1
    192.168.1.112    mmnc.home mmnc   # Asus H270F MB PC2
@@ -95,7 +108,9 @@ $ cat /etc/hosts
    192.168.1.115    hpdw.home hpdw   # HP M402dw
 ```
 
->
+```text
+------------------------
+```
 
 A 64GiB USB pen drive is attached to the RT-AC68U's usb 3.0 port to facilitate running [custom](https://diversion.ch/amtm.html) scripts.
 
@@ -109,7 +124,9 @@ $ ssh -p <ssh_port> <login_name>@rtam.home "amtm"
 
 ![amtm : asuswrt-merlin terminal menu](/images/01/router-2.jpg)
 
->
+```text
+------------------------
+```
 
 [mkcert](https://github.com/FiloSottile/mkcert) was installed and used to create a self-signed private key and SSL certificate to enable https access to both the router and printer GUIs: 
 
@@ -132,7 +149,11 @@ The following generated keys were then imported into either the router or printe
 * Router  : Private Key ; ~/.config/local-certs/clarke.home+8-key.pem
 * Router  : SSL Certificate ; ~/.config/local-certs/clarke.home+8.pem
 * Printer : Certificate ; ~/.config/local-certs/clarke.home+8-key.pfx
-		
+	
+```text
+------------------------
+```
+	
 # Router - Network Map
 
 >
