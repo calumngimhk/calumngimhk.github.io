@@ -21,7 +21,7 @@ Given the obvious importance of protecting these digital devices it makes perfec
 ------------------------
 ```
 
-The updatability of a router's firmware is of primary importance in my opinion given that exploits and bugs inevitably occur over time. 
+The updatability of a router's firmware is of primary importance in my opinion given that exploits and bugs inevitably surface over time. 
 
 >
 
@@ -152,11 +152,7 @@ The following generated keys were then imported into either the router or printe
 
 >
 
-In the scenario outlined below both PCs are turned on and connected to the internet. 
-
->
-
-The wifi connection is set to scheduled mode which is currently timed to be disabled.
+In the scenario outlined below both PCs are turned on and connected to the internet. The wifi connection is set to scheduled mode which is currently timed to be disabled.
 
 >
 
