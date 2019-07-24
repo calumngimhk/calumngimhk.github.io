@@ -63,7 +63,7 @@ Good quality [cat6](https://en.wikipedia.org/wiki/Category_6_cable) cables were 
 
 >
 
-An [ssh key pair](https://wiki.archlinux.org/index.php/SSH_keys#Generating_an_SSH_key_pair) was created and added to the administration section of the router's web gui together with a non default ssh port to facilitate a password free router login experience on the terminal. 
+An [ssh key pair](https://wiki.archlinux.org/index.php/SSH_keys#Generating_an_SSH_key_pair) was created and added to the administration section of the router's web gui and linked to a non default ssh port to facilitate a password free router login experience on the terminal. 
 
 >
 
