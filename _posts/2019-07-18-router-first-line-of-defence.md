@@ -69,28 +69,15 @@ An [ssh key pair](https://wiki.archlinux.org/index.php/SSH_keys#Generating_an_SS
 
 ```bash
 $ ssh-keygen -b 4096 -f ~/.ssh/clarke-rtam -C "clarke@rtam"
-```
-
->
-
-Pasted xclip copied certificate to : 
-[ *router webui* > *administration* > *system* > *service* / **authorized keys** ]
-
->
-
-```bash
 $ xclip -sel clip < ~/.ssh/clarke-rtam.pub
-```
-
->
-
-Verified the ssh key by answering yes to add the key's fingerprint to ```~/.ssh/known_hosts``` when logging in for the first time:
-
->
-
-```bash
 $ ssh -p <ssh_port> <login_name>@rtam.home
 ```
+
+* clarke-rtam.pub pasted to:
+
+>
+
+   [ *router:webui>administration>system>service>authorized keys* ]
 
 >
 
