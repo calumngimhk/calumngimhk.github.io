@@ -152,7 +152,7 @@ The following generated keys were then imported into either the router or printe
 
 >
 
-Here's what the router overview looks like when viewed in the webui:
+In the scenario outlined below both PCs are turned on and connected to the internet. The wifi connection is set to scheduled mode which is currently set to disabled.
 
 >
 
