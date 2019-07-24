@@ -11,7 +11,7 @@ title: Router - First Line of Defence
 ------------------------
 ```
 
-If the internet is likened to a war-zone then the home router sitting between your digital devices and ISP[^1] is equivalent to the first line of defence - under your direct control - against invasion and ruin! 
+If the internet is likened to a war-zone then the home router sitting between your digital devices and ISP[^1] is equivalent to the first line of defence, under your own control, against invasion and ruin! 
 
 > 
 
