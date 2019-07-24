@@ -73,7 +73,7 @@ $ ssh-keygen -b 4096 -f ~/.ssh/clarke-rtam -C "clarke@rtam"
 
 >
 
-Paste xclip copied certificate to : 
+Pasted xclip copied certificate to : 
 [ *router webui* > *administration* > *system* > *service* / **authorized keys** ]
 
 >
@@ -84,7 +84,7 @@ $ xclip -sel clip < ~/.ssh/clarke-rtam.pub
 
 >
 
-Verify the ssh key by answering yes to add the key's fingerprint to ```~/.ssh/known_hosts``` when logging in for the first time:
+Verified the ssh key by answering yes to add the key's fingerprint to ```~/.ssh/known_hosts``` when logging in for the first time:
 
 >
 
