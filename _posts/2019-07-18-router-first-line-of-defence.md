@@ -166,7 +166,7 @@ The wifi connection is set to scheduled mode and is currently timed to be disabl
 
 >
 
-[Macchanger](https://wiki.archlinux.org/index.php/MAC_address_spoofing) is aso integrated into the above wifi bash scripts and allow changing the external ip address with the mac address on demand
+[Macchanger](https://wiki.archlinux.org/index.php/MAC_address_spoofing) is aso integrated into the above wifi bash scripts which allow changing the external ip and the mac addresses on demand
 
 >
 
