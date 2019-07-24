@@ -128,6 +128,10 @@ $ ssh -p <ssh_port> <login_name>@rtam.home "amtm"
 ------------------------
 ```
 
+# Router - Self Signed Certificates
+
+>
+
 [mkcert](https://github.com/FiloSottile/mkcert) was installed and used to create a self-signed private key and SSL certificate to enable https access to both the router and printer GUIs: 
 
 >
@@ -158,7 +162,7 @@ The following generated keys were then imported into either the router or printe
 
 >
 
-In the scenario outlined below both PCs are turned on and connected to the internet - the default workday situation.
+In the scenario screenshot below both PCs are turned on and connected to the internet - the default workday situation.
 
 >
 
@@ -167,6 +171,12 @@ The wifi connection is set to scheduled mode and is currently timed to be disabl
 >
 
 [Macchanger](https://wiki.archlinux.org/index.php/MAC_address_spoofing) is aso integrated into the above wifi bash scripts which allow changing the external ip and the mac addresses on demand
+
+```text
+------------------------
+```
+
+* Network overview showing dual wan connections.
 
 >
 
