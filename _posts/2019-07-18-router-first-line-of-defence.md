@@ -35,12 +35,11 @@ I've been using [Asus](https://www.asus.com/us/) network gear and motherboards f
 ------------------------
 ```
 
-<a href="https://www.asus.com/us/Networking/RTAC68U/gallery/"><img src="/images/01/router-1.jpg"/></a>
+* my current home gigabit dual wan wifi router - the **Asus RT-AC68U** 
 
 >
 
-* my current home gigabit dual wan wifi router - the **Asus RT-AC68U** 
-
+<a href="https://www.asus.com/us/Networking/RTAC68U/gallery/"><img src="/images/01/router-1.jpg"/></a>
 
 ```text
 ------------------------
@@ -60,11 +59,15 @@ I use the RT-AC68U's dual wan feature to [load balance](https://en.wikipedia.org
 
 The two PCs in my home office are attached to the RT-AC68U's LAN2 (192.168.1.111) and LAN3 (192.168.1.112) ports respectively.
 
->
+```text
+------------------------
+```
 
 Good quality [cat6](https://en.wikipedia.org/wiki/Category_6_cable) cables were used to connect all wired devices and the RT-AC68U's default asuswrt firmware is manually replaced with Merlin's [latest](https://sourceforge.net/projects/asuswrt-merlin/files/RT-AC68U/Release/) update from sourceforge.net.
 
->
+```text
+------------------------
+```
 
 An [ssh key pair](https://wiki.archlinux.org/index.php/SSH_keys#Generating_an_SSH_key_pair) was created and added to the administration section of the router's web gui and linked to a non default ssh port to facilitate a password free router login experience on the terminal. 
 
@@ -76,40 +79,14 @@ $ xclip -sel clip < ~/.ssh/clarke-rtam.pub
 $ ssh -p <ssh_port> <login_name>@rtam.home
 ```
 
-* clarke-rtam.pub pasted to:
-
->
-
-   [ *router:webui>administration>system>service>authorized keys* ]
-
->
-
-The RT-AC68U's wifi antennae allow for wireless connections to two android smartphones (192.68.1.113/114) and one wireless printer (192.168.1.115).
+> clarke-rtam.pub pasted to:
+* [ **router**:**webui** *administration>system>service>authorized keys* ]
 
 ```text
 ------------------------
 ```
 
-```bash
-$ cat /etc/hosts
-   127.0.0.1 localhost
-   127.0.0.1 ads.google.com
-   127.0.0.1 analytics.google.com
-   127.0.0.1 doubleclick.net
-   127.0.0.1 google-analytics.com
-   127.0.0.1 googleadservices.com
-   127.0.0.1 googlesyndication.com
-   127.0.0.1 googletagmanager.com
-   127.0.0.1 ssl.google-analytics.com
-   127.0.0.1 www.google-analytics.com
-
-   192.168.1.1      rtam.home rtam   # Asus RT-AC68U
-   192.168.1.111    anbc.home anbc   # Asus H270F MB PC1
-   192.168.1.112    mmnc.home mmnc   # Asus H270F MB PC2
-   192.168.1.113    acmp.home acmp   # Samsung S4 I9500 PHONE1
-   192.168.1.114    mcmp.home mcmp   # Samsung S4 I9500 PHONE2
-   192.168.1.115    hpdw.home hpdw   # HP M402dw
-```
+The RT-AC68U's wifi antennae allow for wireless connections to two android smartphones (192.68.1.113/114) and one wireless printer (192.168.1.115).
 
 ```text
 ------------------------
@@ -157,6 +134,35 @@ The following generated keys were then imported into either the router or printe
 * Router  : SSL Certificate ; ~/.config/local-certs/clarke.home+8.pem
 * Printer : Certificate ; ~/.config/local-certs/clarke.home+8-key.pfx
 	
+```text
+------------------------
+```
+
+# Network - Local DNS
+
+>
+
+```bash
+$ cat /etc/hosts
+   127.0.0.1 localhost
+   127.0.0.1 ads.google.com
+   127.0.0.1 analytics.google.com
+   127.0.0.1 doubleclick.net
+   127.0.0.1 google-analytics.com
+   127.0.0.1 googleadservices.com
+   127.0.0.1 googlesyndication.com
+   127.0.0.1 googletagmanager.com
+   127.0.0.1 ssl.google-analytics.com
+   127.0.0.1 www.google-analytics.com
+
+   192.168.1.1      rtam.home rtam   # Asus RT-AC68U
+   192.168.1.111    anbc.home anbc   # Asus H270F MB PC1
+   192.168.1.112    mmnc.home mmnc   # Asus H270F MB PC2
+   192.168.1.113    acmp.home acmp   # Samsung S4 I9500 PHONE1
+   192.168.1.114    mcmp.home mcmp   # Samsung S4 I9500 PHONE2
+   192.168.1.115    hpdw.home hpdw   # HP M402dw
+```
+
 ```text
 ------------------------
 ```
