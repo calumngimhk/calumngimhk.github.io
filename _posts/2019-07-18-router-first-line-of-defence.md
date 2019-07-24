@@ -31,9 +31,7 @@ I've been using [Asus](https://www.asus.com/us/) network gear and motherboards f
 
 [Asuswrt-Merlin](https://www.asuswrt-merlin.net/) is a [popular](https://www.snbforums.com/forums/asuswrt-merlin.42/) third party firmware offering tweaks and fixes capable of seamlessly replacing Asus' default [Asuswrt](https://www.asus.com/ASUSWRT/) firmware.
 
-```text
-------------------------
-```
+>
 
 <a href="https://www.asus.com/us/Networking/RTAC68U/gallery/"><img src="/images/01/router-1.jpg"/></a>
 
